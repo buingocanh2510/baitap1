@@ -1,4 +1,5 @@
 print("Nhap vao 1 so: ")
+
 n = int(input())
 print(n)
 
