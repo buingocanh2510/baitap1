@@ -15,3 +15,5 @@ else:
         print("la so nguyen to!")
     else:
         print("khong phai la so nguyen to!")
+        
+     print("Ket thuc ")
